@@ -20,7 +20,7 @@ export default function Home() {
       </p>
 
       <div>
-        <Link href="/feed">
+        <Link href="/join">
           <button style={{
             padding:"12px 24px",
             marginRight:"10px",
